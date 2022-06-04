@@ -5,11 +5,6 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.awt.geom.AffineTransform;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.Arrays;
 import java.util.Random;
 
 public class GameField extends JPanel implements ActionListener {
@@ -34,10 +29,6 @@ public class GameField extends JPanel implements ActionListener {
     private char keyStacked = 's';
     AffineTransform identity = new AffineTransform();
 
-
-
-
-
     public GameField() {
         setBackground(Color.black);
         loadImages();
@@ -45,8 +36,8 @@ public class GameField extends JPanel implements ActionListener {
         addKeyListener(new FieldKeyListener());
         setFocusable(true);
         System.out.println("Game Field is running");
-
     }
+
     public void initGame() {
                 inGame = true;
         left=false;
@@ -201,7 +192,6 @@ public class GameField extends JPanel implements ActionListener {
             if (x[0] == x[i] && y[0] == y[i]) {
                 inGame = false;
             }
-
         }
 
         if (x[0] > SIZE || y[0] > SIZE || x[0] < 0 || y[0] <0 ) {
@@ -226,16 +216,16 @@ public class GameField extends JPanel implements ActionListener {
                 initGame();
 
 
-            if (key == KeyEvent.VK_LEFT && !right && moved == false) {
+            if (key == KeyEvent.VK_LEFT && !right && !moved) {
                 keyStacked = 'L';
             }
-            if (key == KeyEvent.VK_RIGHT && !left && moved == false) {
+            if (key == KeyEvent.VK_RIGHT && !left && !moved) {
                 keyStacked = 'R';
             }
-            if (key == KeyEvent.VK_UP && !down && moved == false) {
+            if (key == KeyEvent.VK_UP && !down && !moved) {
                 keyStacked = 'U';
             }
-            if (key == KeyEvent.VK_DOWN && !up && moved == false) {
+            if (key == KeyEvent.VK_DOWN && !up && !moved) {
                 keyStacked = 'D';
             }
 
