@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EPAM/EPAM.iml" filepath="$PROJECT_DIR$/EPAM/EPAM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.2/EPAM 1.2.iml" filepath="$PROJECT_DIR$/EPAM 1.2/EPAM 1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.2.1/EPAM 1.2.1.iml" filepath="$PROJECT_DIR$/EPAM 1.2.1/EPAM 1.2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.2.2/EPAM 1.2.2.iml" filepath="$PROJECT_DIR$/EPAM 1.2.2/EPAM 1.2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.2.3/EPAM 1.2.3.iml" filepath="$PROJECT_DIR$/EPAM 1.2.3/EPAM 1.2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.2.4/EPAM 1.2.4.iml" filepath="$PROJECT_DIR$/EPAM 1.2.4/EPAM 1.2.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.2.5/EPAM 1.2.5.iml" filepath="$PROJECT_DIR$/EPAM 1.2.5/EPAM 1.2.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.3/EPAM 1.3.iml" filepath="$PROJECT_DIR$/EPAM 1.3/EPAM 1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.3.1/EPAM 1.3.1.iml" filepath="$PROJECT_DIR$/EPAM 1.3.1/EPAM 1.3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.3.2/EPAM 1.3.2.iml" filepath="$PROJECT_DIR$/EPAM 1.3.2/EPAM 1.3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.3.3/EPAM 1.3.3.iml" filepath="$PROJECT_DIR$/EPAM 1.3.3/EPAM 1.3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.3.4/EPAM 1.3.4.iml" filepath="$PROJECT_DIR$/EPAM 1.3.4/EPAM 1.3.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.3.5/EPAM 1.3.5.iml" filepath="$PROJECT_DIR$/EPAM 1.3.5/EPAM 1.3.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.3.6/EPAM 1.3.6.iml" filepath="$PROJECT_DIR$/EPAM 1.3.6/EPAM 1.3.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.3.7/EPAM 1.3.7.iml" filepath="$PROJECT_DIR$/EPAM 1.3.7/EPAM 1.3.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.3.8/EPAM 1.3.8.iml" filepath="$PROJECT_DIR$/EPAM 1.3.8/EPAM 1.3.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.4/EPAM 1.4.iml" filepath="$PROJECT_DIR$/EPAM 1.4/EPAM 1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.5/EPAM 1.5.iml" filepath="$PROJECT_DIR$/EPAM 1.5/EPAM 1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 1.6/EPAM 1.6.iml" filepath="$PROJECT_DIR$/EPAM 1.6/EPAM 1.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 2.1.1/EPAM 2.1.1.iml" filepath="$PROJECT_DIR$/EPAM 2.1.1/EPAM 2.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 2.1.2/EPAM 2.1.2.iml" filepath="$PROJECT_DIR$/EPAM 2.1.2/EPAM 2.1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 2.1.3/EPAM 2.1.3.iml" filepath="$PROJECT_DIR$/EPAM 2.1.3/EPAM 2.1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 2.1.4/EPAM 2.1.4.iml" filepath="$PROJECT_DIR$/EPAM 2.1.4/EPAM 2.1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 2.1.5/EPAM 2.1.5.iml" filepath="$PROJECT_DIR$/EPAM 2.1.5/EPAM 2.1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 2.1.6/EPAM 2.1.6.iml" filepath="$PROJECT_DIR$/EPAM 2.1.6/EPAM 2.1.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 2.1.7/EPAM 2.1.7.iml" filepath="$PROJECT_DIR$/EPAM 2.1.7/EPAM 2.1.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EPAM 2.1.8/EPAM 2.1.8.iml" filepath="$PROJECT_DIR$/EPAM 2.1.8/EPAM 2.1.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApp/JavaApp.iml" filepath="$PROJECT_DIR$/JavaApp/JavaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kata/Kata.iml" filepath="$PROJECT_DIR$/Kata/Kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kata2/Kata2.iml" filepath="$PROJECT_DIR$/Kata2/Kata2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neural/Neural.iml" filepath="$PROJECT_DIR$/Neural/Neural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snake Game/Snake Game.iml" filepath="$PROJECT_DIR$/Snake Game/Snake Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SnakeGame/SnakeGame.iml" filepath="$PROJECT_DIR$/SnakeGame/SnakeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Xanox/Xanox.iml" filepath="$PROJECT_DIR$/Xanox/Xanox.iml" />
+    </modules>
+  </component>
+</project>
