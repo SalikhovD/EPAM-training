@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        String str1 = " qqwee er tt tqqwrt y";
+        String str1 = " qqwewe er tt tqqwrt y";
         str1 = deleteDuplicatesAndSpaces(str1);
         System.out.println(str1);
     }
